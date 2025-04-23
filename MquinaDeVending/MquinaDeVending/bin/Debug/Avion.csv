@@ -1,0 +1,4 @@
+ID,Estado,Distancia,Velocidad,Tipo,CapacidadCombustible,ConsumoCombustible,CombustibleActual,InfoAdicional
+A123,EnVuelo,100,500,Comercial,5000,5,180
+B456,EnVuelo,250,600,Carga,10000,10,20000
+C789,EnTierra,0,0,Privado,2000,4,John Smith
